@@ -1,0 +1,38 @@
+{
+    "name": "Enamul Karim Resume",
+    "short_name": "Enamul Karim",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#ccc",
+    "theme_color": "#5FAAE5",
+    "icons": [
+      {
+        "src": "/images/application.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/application.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/application.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/application.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/application.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+      
+      
+    ]
+  }
